@@ -1,0 +1,8 @@
+#todo-form {
+  border-bottom: 3px solid black;
+}
+
+#todo-form input {
+  border-width: 0;
+  outline: none;
+}
